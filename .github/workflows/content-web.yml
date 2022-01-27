@@ -13,7 +13,7 @@ on:
 
 # Environment variables are defined so that they can be used throughout the job definitions.
 env:
-  imageRepository: 'content-web'
+  imageRepository: 'content-web1'
   resourceGroupName: 'fabmedical-528276'
   clusterName: 'fabmedical-528276'
   containerRegistryName: 'acr528276'
